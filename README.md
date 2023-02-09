@@ -41,3 +41,7 @@ Genetic Algorithms techniques in solving a searching problem for optimization.
 ![image](https://user-images.githubusercontent.com/112272836/217857051-2a076700-3339-4f48-87d3-6d66291fa6d1.png)
 
 ![image](https://user-images.githubusercontent.com/112272836/217857123-a3037db7-7ba9-4afb-bc2b-8ad289b0c5e3.png)
+
+-NOTE:
+
+I have used Google Colab GPU to run my code for many hours there to get the best solution so far .
